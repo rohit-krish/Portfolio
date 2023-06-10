@@ -2,19 +2,19 @@
     [
         {
             "url": "https://github.com/rohit-krish/Background-Segmentation",
-            "img-path": "../data/projects-banners/Human-Background Segmentation.png",
+            "img-path": "data/projects-banners/Human-Background Segmentation.png",
             "title": "Human-Background Segmentation",
             "sub-title": "The process is segmenting a person(or persons) in an image from its background. Here we use the concept of semantic segmentation to predict the label of every pixel (dense prediction) in an image."
         },
         {
             "url": "https://github.com/rohit-krish/GridGuide",
-            "img-path": "../data/projects-banners/GridGuid Sudoku Detector & Solver.webp",
+            "img-path": "data/projects-banners/GridGuid Sudoku Detector & Solver.webp",
             "title": "GridGuid Sudoku Detector & Solver",
             "sub-title": "An Android Flutter Application, for automatically detect/recognize any sudoku board configuration and lets user play it in the mobile."
         },
         {
             "url": "https://github.com/rohit-krish/Content-Based-Movie-Recommendation-System",
-            "img-path": "../data/projects-banners/Content Based Movie Recommendation System.jpg",
+            "img-path": "data/projects-banners/Content Based Movie Recommendation System.jpg",
             "title": "Content Based Movie Recommendation System ",
             "sub-title": "Movie recommendation system using Content Based approach, i used cosine similarity to calibrate the similarity index."
         }
@@ -22,13 +22,13 @@
     [
         {
             "url": "https://github.com/rohit-krish/Reverse-Image-Search-Fashion-Items",
-            "img-path": "../data/projects-banners/Reverse-Image-Search-Fashion-Items.jpg",
+            "img-path": "data/projects-banners/Reverse-Image-Search-Fashion-Items.jpg",
             "title": "Reverse Image Search Fashion Items ",
             "sub-title": "Reverse image search from a given dataset, firstly find the features using Deep Learning, and then compare the new image with the calculated features to recommend, in this project i used K-Nearest-Neighbours and ANNOY algorithm find similer image(recommend)."
         },
         {
             "url": "https://github.com/rohit-krish/CVFS",
-            "img-path": "../data/projects-banners/cvfs.png",
+            "img-path": "data/projects-banners/cvfs.png",
             "title": "Coding Classical Computer Algorithms From Scratch in Python",
             "sub-title": "Canny Edge Detection, Affine Transformations, Guassian Filter, Histogram Equalization, Perspective Transformations, Thresholding, etc.."
         }
