@@ -13,7 +13,7 @@
             "sub-title": "An Android Flutter Application, for automatically detect/recognize any sudoku board configuration and lets user play it in the mobile."
         },
         {
-            "url": "https://github.com/rohit-krish/Content-Based-Movie-Recommendation-System",
+            "url": "https://github.com/rohit-krish/Movie-Recommendation",
             "img-path": "https://raw.githubusercontent.com/rohit-krish/Portfolio/main/data/projects-banners/Content%20Based%20Movie%20Recommendation%20System.jpg",
             "title": "Content Based Movie Recommendation System ",
             "sub-title": "Movie recommendation system using Content Based approach, i used cosine similarity to calibrate the similarity index."
