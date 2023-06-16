@@ -29,7 +29,7 @@
         {
             "url": "https://github.com/rohit-krish/CVFS",
             "img-path": "https://raw.githubusercontent.com/rohit-krish/Portfolio/main/data/projects-banners/cvfs.png",
-            "title": "Coding Classical Computer Algorithms From Scratch in Python",
+            "title": "Coding Classical Computer Vision Algorithms From Scratch in Python",
             "sub-title": "Canny Edge Detection, Affine Transformations, Guassian Filter, Histogram Equalization, Perspective Transformations, Thresholding, etc.."
         }
     ]
