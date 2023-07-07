@@ -62,9 +62,9 @@ function renderIt(id, json_path, isArticle) {
     fetch(json_path)
         .then(response => response.json())
         .then(data => {
-            for (row_item of data) {
+            for (let row_item of data) {
                 row = createRow();
-                for (item of row_item) {
+                for (let item of row_item) {
                     col = createCol(item, isArticle);
                     row.appendChild(col);
                 }
