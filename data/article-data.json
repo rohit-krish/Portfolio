@@ -1,5 +1,20 @@
 [
     {
+        "section-title": "Machine Learning",
+        "section-data": [
+            [
+                {
+                    "url": "https://medium.com/@rohit-krishna/ml-from-scratch-part-01-k-nearest-neighbor-knn-fd2071cc3ccc",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*aNun94HUeTC4THEgWsllOg.png",
+                    "title": "ML From Scratch Part 01 — K-Nearest Neighbor (KNN)",
+                    "sub-title": "KNN is a supervised machine-learning algorithm used for simple classification tasks.",
+                    "time": "2 min read",
+                    "date": "28 Jul 2023"
+                }
+            ]
+        ]
+    },
+    {
         "section-title": "Computer Vision",
         "section-data": [
             [
