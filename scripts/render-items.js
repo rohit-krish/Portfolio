@@ -1,3 +1,15 @@
+function createSection(title_str) {
+    title = document.createElement('div');
+    title.className = 'h2 pt-4 pb-2';
+    title.textContent = title_str;
+
+    section = document.createElement('div');
+    section.appendChild(title)
+
+    return section
+
+}
+
 function createRow() {
     row = document.createElement('div');
     row.className = 'row';
@@ -50,8 +62,6 @@ function createCol(item, isArticle) {
     col.appendChild(card);
 
     col.className = 'col-sm-6 col-md-4';
-    // by default, each column will occupy 6 units of the grid (col-sm-6).
-    // On medium-sized screens or above, each column will occupy 4 units (col-md-4),
 
     return col;
 }
@@ -62,13 +72,29 @@ function renderIt(id, json_path, isArticle) {
     fetch(json_path)
         .then(response => response.json())
         .then(data => {
-            for (let row_item of data) {
-                row = createRow();
-                for (let item of row_item) {
-                    col = createCol(item, isArticle);
-                    row.appendChild(col);
+            // the sections only need for article page
+            if (isArticle) {
+                for (let sectionData of data) {
+                    const section = createSection(sectionData['section-title']);
+                    for (let row_item of sectionData['section-data']) {
+                        const row = createRow();
+                        for (let item of row_item) {
+                            const col = createCol(item, isArticle);
+                            row.appendChild(col);
+                        }
+                        section.appendChild(row);
+                    }
+                    article.appendChild(section);
                 }
-                article.appendChild(row);
+            } else {
+                for (let row_item of data) {
+                    row = createRow();
+                    for (let item of row_item) {
+                        col = createCol(item, isArticle);
+                        row.appendChild(col);
+                    }
+                    article.appendChild(row);
+                }
             }
         })
         .catch(error => {

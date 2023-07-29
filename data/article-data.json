@@ -1,0 +1,51 @@
+[
+    {
+        "section-title": "Computer Vision",
+        "section-data": [
+            [
+                {
+                    "url": "https://medium.com/@rohit-krishna/coding-canny-edge-detection-algorithm-from-scratch-in-python-232e1fdceac7",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*fBIv-OhDmeWM4oLEYtKkJw.png",
+                    "title": "Coding Canny Edge Detection Algorithm from scratch in Python.",
+                    "sub-title": "In this article, I'm gonna be explaining everything about Canny Edge Detection, as well as coding it from scratch.",
+                    "time": "9 min read",
+                    "date": "31 Jan 2023"
+                },
+                {
+                    "url": "https://medium.com/geekculture/affine-transformations-in-depth-65f7876f3834",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*hPkGqFtOkJqvL_5Pk-6iBQ.jpeg",
+                    "title": "Affine Transformations In Depth",
+                    "sub-title": "Transformation is, as the name suggests it is transforming some things, in our context, it is a Matrix Transformations matrix meaning…",
+                    "time": "3 min read",
+                    "date": "6 Apr 2023"
+                },
+                {
+                    "url": "https://medium.com/geekculture/image-thresholding-from-scratch-a66ae0fb6f09",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*yx1zVUfXALo1o9Br9Di1-g.png",
+                    "title": "Image Thresholding From Scratch",
+                    "sub-title": "Thresholding is a process in which an input image is converted into a binary image, where pixels with intensity values above a certain…",
+                    "time": "5 min read",
+                    "date": "7 Apr 2023"
+                }
+            ],
+            [
+                {
+                    "url": "https://medium.com/geekculture/histogram-equalisation-from-scratch-271720924cc",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*RvuenO4b-NBZsZKBDFrbzw.jpeg",
+                    "title": "Histogram Equalisation From Scratch in Python",
+                    "sub-title": "Coding Histogram Equalisation in Python From Scratch",
+                    "time": "4 min read",
+                    "date": "12 Apr 2023"
+                },
+                {
+                    "url": "https://medium.com/@rohit-krishna/coding-gaussian-blur-operation-from-scratch-in-python-f5a9af0a0c0f",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*G9Y4S7BLruiKiwGjjagINg.png",
+                    "title": "Coding: Gaussian Blur Algorithm from scratch in Python.",
+                    "sub-title": "Coding the underlying concept without calling some custom function and be it, rather you are going to exposed to what is truly happening…",
+                    "time": "4 min read",
+                    "date": "4 Jan 2023"
+                }
+            ]
+        ]
+    }
+]
