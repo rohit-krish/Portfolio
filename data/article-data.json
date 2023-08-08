@@ -10,6 +10,14 @@
                     "sub-title": "KNN is a supervised machine-learning algorithm used for simple classification tasks.",
                     "time": "2 min read",
                     "date": "28 Jul 2023"
+                },
+                {
+                    "url": "https://medium.com/@rohit-krishna/ml-from-scratch-part-02-linear-polynomial-regression-in-depth-baaff21d0a15",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*iNJ8sWsyM82gxxcUoAmWnw.png",
+                    "title": "ML From Scratch Part 02 — Linear & Polynomial Regression In-Depth",
+                    "sub-title": "Linear Regression is a simple ML Algorithm, but also it is a stepping stone into the ocean of Deep Learning.",
+                    "time": "10 min read",
+                    "date": "07 Aug 2023"
                 }
             ]
         ]
@@ -30,7 +38,7 @@
                     "url": "https://medium.com/geekculture/affine-transformations-in-depth-65f7876f3834",
                     "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*hPkGqFtOkJqvL_5Pk-6iBQ.jpeg",
                     "title": "Affine Transformations In Depth",
-                    "sub-title": "Transformation is, as the name suggests it is transforming some things, in our context, it is a Matrix Transformations matrix meaning…",
+                    "sub-title": "In depth explanation of Affine Transfomations and also from scratch Python implementation.",
                     "time": "3 min read",
                     "date": "6 Apr 2023"
                 },
@@ -38,7 +46,7 @@
                     "url": "https://medium.com/geekculture/image-thresholding-from-scratch-a66ae0fb6f09",
                     "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*yx1zVUfXALo1o9Br9Di1-g.png",
                     "title": "Image Thresholding From Scratch",
-                    "sub-title": "Thresholding is a process in which an input image is converted into a binary image, where pixels with intensity values above a certain…",
+                    "sub-title": "Explanation and Python Implementation of Global, Adaptive Thresholding and Otsu's Thresholding.",
                     "time": "5 min read",
                     "date": "7 Apr 2023"
                 }
@@ -56,7 +64,7 @@
                     "url": "https://medium.com/@rohit-krishna/coding-gaussian-blur-operation-from-scratch-in-python-f5a9af0a0c0f",
                     "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*G9Y4S7BLruiKiwGjjagINg.png",
                     "title": "Coding: Gaussian Blur Algorithm from scratch in Python.",
-                    "sub-title": "Coding the underlying concept without calling some custom function and be it, rather you are going to exposed to what is truly happening…",
+                    "sub-title": "In depth explanation of one of the most common image processing task along with Python implementation.",
                     "time": "4 min read",
                     "date": "4 Jan 2023"
                 }
