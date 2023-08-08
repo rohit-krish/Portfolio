@@ -27,38 +27,38 @@
         "section-data": [
             [
                 {
-                    "url": "https://medium.com/@rohit-krishna/coding-canny-edge-detection-algorithm-from-scratch-in-python-232e1fdceac7",
-                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*fBIv-OhDmeWM4oLEYtKkJw.png",
-                    "title": "Coding Canny Edge Detection Algorithm from scratch in Python.",
-                    "sub-title": "In this article, I'm gonna be explaining everything about Canny Edge Detection, as well as coding it from scratch.",
-                    "time": "9 min read",
-                    "date": "31 Jan 2023"
+                    "url": "https://medium.com/geekculture/image-thresholding-from-scratch-a66ae0fb6f09",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*rE7MRDqfBJR0DH-v9SJK-w.png",
+                    "title": "Image Thresholding From Scratch",
+                    "sub-title": "Explanation and Python Implementation of Global, Adaptive Thresholding and Otsu's Thresholding.",
+                    "time": "5 min read",
+                    "date": "7 Apr 2023"
                 },
                 {
                     "url": "https://medium.com/geekculture/affine-transformations-in-depth-65f7876f3834",
-                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*hPkGqFtOkJqvL_5Pk-6iBQ.jpeg",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*ksI6qporQ3c5r208P9_PGQ.png",
                     "title": "Affine Transformations In Depth",
                     "sub-title": "In depth explanation of Affine Transfomations and also from scratch Python implementation.",
                     "time": "3 min read",
                     "date": "6 Apr 2023"
                 },
                 {
-                    "url": "https://medium.com/geekculture/image-thresholding-from-scratch-a66ae0fb6f09",
-                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*yx1zVUfXALo1o9Br9Di1-g.png",
-                    "title": "Image Thresholding From Scratch",
-                    "sub-title": "Explanation and Python Implementation of Global, Adaptive Thresholding and Otsu's Thresholding.",
-                    "time": "5 min read",
-                    "date": "7 Apr 2023"
-                }
-            ],
-            [
-                {
                     "url": "https://medium.com/geekculture/histogram-equalisation-from-scratch-271720924cc",
-                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*RvuenO4b-NBZsZKBDFrbzw.jpeg",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*RvuenO4b-NBZsZKBDFrbzw.jpeg",
                     "title": "Histogram Equalisation From Scratch in Python",
                     "sub-title": "Coding Histogram Equalisation in Python From Scratch",
                     "time": "4 min read",
                     "date": "12 Apr 2023"
+                }
+            ],
+            [
+                {
+                    "url": "https://medium.com/@rohit-krishna/coding-canny-edge-detection-algorithm-from-scratch-in-python-232e1fdceac7",
+                    "img-path": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*fBIv-OhDmeWM4oLEYtKkJw.png",
+                    "title": "Coding Canny Edge Detection Algorithm from scratch in Python.",
+                    "sub-title": "In this article, I'm gonna be explaining everything about Canny Edge Detection, as well as coding it from scratch.",
+                    "time": "9 min read",
+                    "date": "31 Jan 2023"
                 },
                 {
                     "url": "https://medium.com/@rohit-krishna/coding-gaussian-blur-operation-from-scratch-in-python-f5a9af0a0c0f",
