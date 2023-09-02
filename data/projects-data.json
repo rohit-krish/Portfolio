@@ -27,12 +27,6 @@
             "sub-title": "Movie recommendation system using Content Based approach, i used cosine similarity to calibrate the similarity index."
         },
         {
-            "url": "https://github.com/rohit-krish/Reverse-Image-Search-Fashion-Items",
-            "img-path": "data/projects-banners/Reverse-Image-Search-Fashion-Items.jpg",
-            "title": "Reverse Image Search Fashion Items ",
-            "sub-title": "Reverse image search from a given dataset, firstly find the features using Deep Learning, and then compare the new image with the calculated features to recommend, in this project i used K-Nearest-Neighbours and ANNOY algorithm find similer image(recommend)."
-        },
-        {
             "url": "https://github.com/rohit-krish/CVFS",
             "img-path": "data/projects-banners/cvfs.png",
             "title": "Coding Classical Computer Vision Algorithms From Scratch in Python",
