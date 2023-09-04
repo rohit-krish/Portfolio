@@ -4,19 +4,19 @@
             "url": "https://github.com/rohit-krish/Deeplex",
             "img-path": "data/projects-banners/deeplex.png",
             "title": "Deep Learning Framework with GPU Acceleration",
-            "sub-title": "Deeplex is a PyTorch inspired, basic Deep Learning Framework; built on top of an Reverse-Mode AutoGrad Engine."
+            "sub-title": "Deeplex is a PyTorch inspired, basic Deep Learning Framework built on top of an Reverse-Mode AutoGrad Engine."
         },
         {
             "url": "https://github.com/rohit-krish/GridGuide",
             "img-path": "data/projects-banners/GridGuid Sudoku Detector & Solver.webp",
             "title": "GridGuid Sudoku Detector & Solver",
-            "sub-title": "An Android Flutter Application, for automatically detect/recognize any sudoku board configuration and lets user play it in the mobile."
+            "sub-title": "An Android Flutter Application, for automatically detect/recognize any sudoku board configuration and lets user to play it on the go."
         },
         {
             "url": "https://github.com/rohit-krish/Background-Segmentation",
             "img-path": "data/projects-banners/Human-Background Segmentation.png",
             "title": "Human-Background Segmentation",
-            "sub-title": "The process is segmenting a person(or persons) in an image from its background. Here we use the concept of semantic segmentation to predict the label of every pixel (dense prediction) in an image."
+            "sub-title": "A binary Semantic Segmentation Project which segments person(or persons) from the background. Here i used DeepLabV3 Model architecture for the dense prediction."
         }
     ],
     [
