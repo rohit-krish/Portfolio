@@ -1,3 +1,3 @@
-Live at: https://rohit-krish.github.io/Portfolio
+Live at: https://rohit-krish.github.io/Website
 
-Like the design of https://karpathy.ai
+https://karpathy.ai
