@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rohit Krishna - Portfolio</title>
+    <title>Rohit Krishna - Resume</title>
     <link rel="icon" type="image/x-icon" href="./assets/icon.ico">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
@@ -39,10 +39,10 @@
                     <a class="nav-link" href="./index.html">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="./resume.html">My Resume</a>
+                    <a class="nav-link active" href="#">Resume</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./article.html">Articles</a>
+                    <a class="nav-link" href="./articles.html">Articles</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="./projects.html">Projects</a>
@@ -52,13 +52,22 @@
     </nav>
 
 
-    <div class="center-button pb-1 pt-4">
+    <div class="dropdown center-button">
+        <button class="btn btn-outline-success dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"> Download </button>
+        <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="./assets/Resume2 (Rohit Krishna).pdf" download>PDF Document (.pdf)</a></li>
+            <li><a class="dropdown-item" href="./assets/Resume2 (Rohit Krishna).docx" download>Microsoft Word (.docx)</a></li>
+            <li><a class="dropdown-item" href="./assets/Resume2 (Rohit Krishna).png" download>Image (.png)</a></li>
+        </ul>
+    </div>
+
+    <!-- <div class="center-button pb-1 pt-4">
         <a href="./assets/Resume (Rohit Krishna).pdf" download>
             <button class="btn btn-outline-success">Download PDF</button>
         </a>
-    </div>
+    </div> -->
 
-    <img src="./assets/Resume (Rohit Krishna).png" alt="My Resume" class="center-image img-fluid">
+    <img src="./assets/Resume2 (Rohit Krishna).png" alt="My Resume" class="center-image img-fluid">
 </body>
 
 </html>
